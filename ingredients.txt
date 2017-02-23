@@ -1,2 +1,8 @@
 avocados
+onions
+cilantro 
+lime
+tomato
+pepper
+salt
 
